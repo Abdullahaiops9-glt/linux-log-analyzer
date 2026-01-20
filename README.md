@@ -73,3 +73,32 @@ errors.txt → All error messages
 warnings.txt → All warning messages
 
 error_count.txt → Frequency of error types
+
+## 📊 Sample Output
+
+Total Errors:   23
+
+Total Warnings: 11
+
+
+## error_count.txt
+
+12 timeout
+7 failed
+4 denied
+
+## 💼 Real-World Use Case
+
+✔ Monitoring production servers
+✔ Debugging failed services
+✔ Incident response
+✔ Log auditing
+✔ SIEM pre-processing
+
+## This script can later be extended to:
+
+Cron jobs
+
+Email alerts
+
+ELK stack integration
